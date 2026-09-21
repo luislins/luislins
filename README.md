@@ -3,7 +3,7 @@
 ## About me
 
 I'm a software engineer based in Recife, Brazil. I build products end to
-end — data model, API, interface, deploy.
+end -- data model, API, interface, deploy.
 
 ### Technologies I use most
 
@@ -25,5 +25,5 @@ end — data model, API, interface, deploy.
 - [LinkedIn](https://linkedin.com/in/luislins)
 - luisguilherme.siqueira32@gmail.com
 
-Much of my work lives in private repositories — happy to walk through any of
+Much of my work lives in private repositories -- happy to walk through any of
 it.
