@@ -22,7 +22,7 @@ end -- data model, API, interface, deploy.
 
 ## How to reach me
 
-- [LinkedIn](https://linkedin.com/in/luislins)
+- [LinkedIn](https://www.linkedin.com/in/luis-guilherme-91a584276/)
 - luisguilherme.siqueira32@gmail.com
 
 Much of my work lives in private repositories -- happy to walk through any of
